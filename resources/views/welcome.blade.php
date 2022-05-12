@@ -7,8 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hi</h1>
+    <?php
+    echo "hiii";
+    ?>
     <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus esse saepe illo dolores repudiandae debitis magni omnis harum doloremque dicta reprehenderit, deserunt nihil tempore accusantium commodi suscipit veniam aperiam eaque.
 </P>
+
+
 </body>
 </html>
